@@ -10,21 +10,25 @@ if (number == 2)
 }
 if (number == 3)
 {
-    Console.WriteLine("Wed");
+    Console.WriteLine("Wednesday");
 }
 if (number == 4)
 {
-    Console.WriteLine("Thu");
+    Console.WriteLine("Thursday");
 }
 if (number == 5)
 {
-    Console.WriteLine("Fri");
+    Console.WriteLine("Friday");
 }
 if (number == 6)
 {
-    Console.WriteLine("Sat");
+    Console.WriteLine("Saturday");
 }
 if (number == 7)
 {
-    Console.WriteLine("Sun");
+    Console.WriteLine("Sunday");
+}
+else 
+{
+    Console.WriteLine("Wrong number");
 }
